@@ -1,10 +1,10 @@
 # Security Policy
 
-Tyllage handles farm-private commercial data (production costs, minimum prices, margins) and buyer contact details, so we take security reports seriously.
+SoLeaf handles farm-private commercial data (production costs, minimum prices, margins) and buyer contact details, so we take security reports seriously.
 
 ## Supported versions
 
-Tyllage is in its pilot (MVP) phase. Only the latest commit on `main`, and the deployment built from it, receives security fixes.
+SoLeaf is in its pilot (MVP) phase. Only the latest commit on `main`, and the deployment built from it, receives security fixes.
 
 | Version | Supported |
 |---|---|
@@ -55,7 +55,7 @@ Out of scope:
 
 ## Unauthorised copies and forks
 
-This repository is proprietary. Tyllage does not support, and has not authorised, any deployment, fork or copy of this code outside the Tyllage team. Vulnerabilities found only in someone else's copy are out of scope. If you find Tyllage code being used or hosted without permission, please tell us through the same private reporting channel.
+This repository is proprietary. SoLeaf does not support, and has not authorised, any deployment, fork or copy of this code outside the SoLeaf team. Vulnerabilities found only in someone else's copy are out of scope. If you find SoLeaf code being used or hosted without permission, please tell us through the same private reporting channel.
 
 ## Safe harbour
 
@@ -66,8 +66,8 @@ We will not take action against good-faith research that:
 - does not degrade the service for others;
 - gives us reasonable time to fix the issue before you disclose it.
 
-Safe harbour covers security testing only. It does not grant any licence to copy, use, modify or redistribute Tyllage code.
+Safe harbour covers security testing only. It does not grant any licence to copy, use, modify or redistribute SoLeaf code.
 
-## How Tyllage protects data
+## How SoLeaf protects data
 
 [AUDIT.md](AUDIT.md) lists the security controls in place, the latest audit results and known limitations.
